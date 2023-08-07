@@ -10,7 +10,7 @@
 
 💻 I'm interested in...
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djccnt15&exclude_repo=djccnt15.github.io&hide=jupyter%20notebook&layout=donut&langs_count=10"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-djccnt15.vercel.app/api/top-langs/?username=djccnt15&layout=compact&langs_count=20&exclude_repo=djccnt15.github.io&hide=jupyter%20notebook"/></a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat)
