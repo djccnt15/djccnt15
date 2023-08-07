@@ -2,7 +2,7 @@
 
 ### Jay.D
 
-<a href="https://djccnt15.github.io/"><img src="https://img.shields.io/badge/Jay.D-222222?style=flat&logo=githubpages&logoColor=white"/></a> <a href="mailto:djccnt15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/djccnt15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> 
+<a href="https://djccnt15.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white"/></a> <a href="mailto:djccnt15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/djccnt15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> 
 ---
 </div>
 
