@@ -6,7 +6,7 @@
 ---
 </div>
 
-💼 I’m currently working as Data Scientist, MLOps, Data Engineer, Backend Engineer
+💼 a Data Scientist, MLOps, Backend Engineer
 
 💻 I'm interested in...
 
